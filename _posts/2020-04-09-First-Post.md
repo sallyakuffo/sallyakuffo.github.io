@@ -1,6 +1,6 @@
 ---
 layout:post
-title: "My First Blog"
+title: "First Post"
 date:2020-04-09
 ---
 
