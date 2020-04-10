@@ -1,2 +1,4 @@
 name: Sally Akuffo
 markdown: kramdown
+
+theme: jekyll-theme-slate
